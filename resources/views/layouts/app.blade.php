@@ -15,6 +15,7 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="{{ route('tipos-habitacion.index') }}">Tipos Habitación</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('habitaciones.index') }}">Habitaciones</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ route('clientes.index') }}">Clientes</a></li>
                 </ul>
             </div>
         </div>
