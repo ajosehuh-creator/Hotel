@@ -25,7 +25,6 @@ Route::middleware([
     })->name('dashboard');
 });
 
-
 //reservaciones
 Route::resource('reservaciones', ReservacionController::class)
     ->only(['index', 'store', 'update', 'destroy']);

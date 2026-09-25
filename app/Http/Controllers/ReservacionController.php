@@ -375,7 +375,7 @@ class ReservacionController extends Controller
     /**
      * Eliminar una reservación
      */
-    public function destroy($id)
+    public function destroy (int $id)
     {
         try {
 

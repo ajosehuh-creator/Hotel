@@ -763,8 +763,6 @@
 
                         </div>
 
-
-
                         {{-- FECHA ENTRADA --}}
 
                         <div class="col-md-6">
